@@ -2,8 +2,6 @@
 
 HandinHand is a web-based Responder Dashboard built to help coordinate emergency efforts and track requests for help during critical situations such as natural disasters, accidents, or medical emergencies.
 
-![Responder Dashboard](https://raw.githubusercontent.com/abdul3532/hand-in-hand/main/public/vite.svg)
-
 ## Features
 
 - **Real-Time Request Tracking**: Monitor incoming help requests with automatic status updates.
